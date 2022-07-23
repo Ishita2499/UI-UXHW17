@@ -6,9 +6,8 @@ body {
     font-weight: 200;
 }
 
-.image2int {
+.id-2 {
     display: inline-block;
-    text-align: center;
     width: 100%;
     transform: translateY(2%);
 }
